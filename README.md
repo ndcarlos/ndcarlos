@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noah Carlos
-- 👀 I’m interested in climate science, renewable energy, city planning, global inequities, and making the world a better place
-- 🌱 I’m currently learning applied mathematics with a concentration in data science
-- 💞️ I’m looking to collaborate on anything that will help me further my understanding of data science techniques
-- 📫 ndcarlos@berkeley.edu
+- 👀 I'm always looking to learn something and try new things
+- 🌱 I studied applied mathematics with a concentration in data science at UC Berkeley
+- 💞️ I’m interested in climate science, renewable energy, city planning, global inequities, and making the world a better place
+- 📫 ndcarlos415@gmail.com
