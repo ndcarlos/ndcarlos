@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noah Carlos
+- 👋 Hi, I’m Noah.
 - 👀 I'm always looking to learn something and try new things
 - 🌱 I studied applied mathematics with a concentration in data science at UC Berkeley
 - 💞️ I’m interested in climate science, renewable energy, city planning, global inequities, and making the world a better place
