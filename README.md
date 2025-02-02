@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndcarlos&label=Profile%20views&color=0e75b6&style=flat" alt="ndcarlos" /> </p>
 
-- 🔭 I’m currently working on [wander](https://github.com/ndcarlos/spotify-project/blob/main/wander/README.md) and [spotify-viz](https://github.com/ndcarlos/spotify-viz)
+- 🔭 I’m currently working on [wander](https://github.com/ndcarlos/spotify-project/blob/main/wander/README.md)
 
 - 🌱 I’m currently learning **front end design, Spotify Web API, all things climate data and justice**
 
