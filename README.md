@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **front end design, Spotify Web API, all things climate data and justice**
 
-- 💬 Ask me about **python, R, ggplot, or to chat about random astrology topics.**
+- 💬 Ask me about **python, R, ggplot, or to chat about random astrology topics**
 
 - 📫 How to reach me **ndcarlos415@gmail.com**
 
